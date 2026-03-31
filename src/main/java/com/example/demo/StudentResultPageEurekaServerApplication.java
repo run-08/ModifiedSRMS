@@ -11,5 +11,4 @@ public class StudentResultPageEurekaServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(StudentResultPageEurekaServerApplication.class, args);
 	}
-
 }
